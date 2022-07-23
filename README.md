@@ -1,5 +1,8 @@
 ### 🚀 This is my personal [blog](https://HangX-Ma.github.io). 
-- I’m currently learning _STC8._
+- I’m currently learning _GD32_ and _GNU_ series tools.
+- Some procedural records respositories are also useful.
+- The _fuzzy-logic-controller_ respository provides a fuzzy logic controller library for easy usage.
+- _miniScope_ project uses _STC8A8K64D4_ microchip and 0.96 inch OLED screen. 
 - I have finished a project using _ELEPHANT P3_ robot to do _JPS_ path planning and _TOPP-RA_ trajectory planning.
 ![https://HangX-Ma.github.io](https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=dark) 
 
