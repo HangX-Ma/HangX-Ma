@@ -5,6 +5,7 @@
 - _miniScope_ project uses _STC8A8K64D4_ microchip and 0.96 inch OLED screen. 
 - I have finished a project using _ELEPHANT P3_ robot to do _JPS_ path planning and _TOPP-RA_ trajectory planning.
 ![https://HangX-Ma.github.io](https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HangX-Ma&layout=compact)](https://github.com/HangX-Ma/github-readme-stats)
 
 
 <!--
