@@ -1,6 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight" />
 
-### 🚀 This is my personal [blog](https://HangX-Ma.github.io). 
 - _ELEPHANT P3_ robot is used to do _JPS_ path planning and _TOPP-RA_ trajectory planning.
 
 
