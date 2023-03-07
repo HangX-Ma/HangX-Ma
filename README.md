@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight" />
 
+**Record and share** - This is my personal [cnblog](https://www.cnblogs.com/m-contour) in which shares the technical details that you may be interested in. 💦
+
 <!--
 **HangX-Ma/HangX-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
