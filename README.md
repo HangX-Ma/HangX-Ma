@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight" />
-
 **Record and share** - This is my personal [GitPage](https://hangx-ma.github.io) in which shares the technical details that you may be interested in. 💦
+<br>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true" alt="HangX-Ma's github stats" /></a>
 
 <!--
 **HangX-Ma/HangX-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
