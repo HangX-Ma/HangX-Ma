@@ -1,3 +1,5 @@
+<img align="right" alt="pusheencode-gif" src="https://raw.githubusercontent.com/HangX-Ma/HangX-Ma/main/assets/pusheencode.gif" />
+
 <p  align="center">
   <!--
   <img src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true" alt="HangX-Ma's github stats" /></br>-->
@@ -6,7 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=HangX-Ma&logo=github&label=Github%20Visits&color=9ACD32&logoColor=white&style=flat-square" />
 </p>
 
-## Record and share 
+## Record and share
+
 - This is my personal [GitPage](https://hangx-ma.github.io) in which shares the technical details that you may be interested in. 💦
 - I'm a novice in embedded and os.
 
@@ -18,12 +21,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-
 
 <!--
 **HangX-Ma/HangX-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
