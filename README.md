@@ -1,17 +1,10 @@
-<img align="right" alt="pusheencode-gif" src="https://raw.githubusercontent.com/HangX-Ma/HangX-Ma/main/assets/pusheencode.gif" />
+<img width="400px" style="margin: 5px 5px 10px 10px;" align="right" alt="pusheencode-gif" src="https://raw.githubusercontent.com/HangX-Ma/HangX-Ma/main/assets/pusheencode.gif" />
 
-<p  align="center">
-  <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true" alt="HangX-Ma's github stats" /></br>-->
-  <a href="https://HangX-Ma.github.io"><img src="https://img.shields.io/static/v1?logo=github&label=&message=GitPage&color=36393f&style=flat-square" alt="github"></a>
-  <a href="mailto:contour.9x@gmail.com"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=Gmail&logoColor=white&color=FF6A6A" alt="email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HangX-Ma&logo=github&label=Github%20Visits&color=9ACD32&logoColor=white&style=flat-square" />
-</p>
-
-## Record and share
+## Description
 
 - This is my personal [GitPage](https://hangx-ma.github.io) in which shares the technical details that you may be interested in. 💦
 - I'm a novice in embedded and os.
+
 
 ## Tech Stack
 
@@ -25,6 +18,14 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+
+<!--
+<div align="left" class="box" id="info">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=HangX-Ma&theme=tokyonight&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true" alt="HangX-Ma's github stats" /></br>
+  <a href="https://HangX-Ma.github.io"><img src="https://img.shields.io/static/v1?logo=github&label=&message=GitPage&color=36393f&style=for-the-badge" alt="github"></a>
+  <a href="mailto:contour.9x@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=HangX-Ma&label=Github+Visits&color=61afef&style=for-the-badge" />
+</div>-->
 
 <!--
 **HangX-Ma/HangX-Ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
