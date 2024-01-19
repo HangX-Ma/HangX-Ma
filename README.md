@@ -10,14 +10,15 @@
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![CMake](https://img.shields.io/badge/-CMake-333333?style=flat&logo=cmake)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 <!--
 <div align="left" class="box" id="info">
