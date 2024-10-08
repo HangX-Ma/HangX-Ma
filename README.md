@@ -2,8 +2,8 @@
 
 ## Description
 
-- This is my personal [GitPage](https://hangx-ma.github.io) in which shares the technical details that you may be interested in. 💦
-- I'm a novice in embedded and os.
+- This is my personal [GitPage](https://hangx-ma.github.io) in which shares some technical details that you may be interested in. 💦
+- I'm a novice in embedded system and os.
 
 
 ## Tech Stack
@@ -18,7 +18,6 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
 ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=shell)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 <!--
 <div align="left" class="box" id="info">
