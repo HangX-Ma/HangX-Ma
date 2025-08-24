@@ -3,7 +3,7 @@
 ## Description
 
 - This is my personal [GitPage](https://hangx-ma.github.io) in which shares some technical details that you may be interested in. 💦
-- I'm a novice in embedded system and os.
+- I'm a novice in embedded system and os. Now work on camera system.
 
 
 ## Tech Stack
